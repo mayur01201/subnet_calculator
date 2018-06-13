@@ -1,3 +1,6 @@
+#Subnetting calculator
+#Use Python 2.7 version.(will not work on python 3 version)
+
 # Asking for IP address and checking validation
 import random
 try:
@@ -131,5 +134,5 @@ except:
 
 #####Credits######
 #Name: Mayur Baviskar
-#Github:
+#Github: www.github.com/mayur01201
 #Email: mayur01201@gmail.com
